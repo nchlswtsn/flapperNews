@@ -1,4 +1,4 @@
-var app = angular.module('flapperNews', []);
+var app = angular.module('codingHouseNews', []);
 
 app.controller('MainCtrl', ['$scope', function($scope){
   $scope.posts = [];
