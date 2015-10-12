@@ -1,8 +1,19 @@
-body {
+/*body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
 a {
   color: #00B7FF;
+}*/
+.glyphicon-thumbs-up {
+  cursor:pointer;
+  font-weight: 600;
+}
+.glyphicon-thumbs-up:active {
+  color: red;
+  font-weight: 600;
+}
+.NewPost {
+  margin-top: 50px;
 }
